@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="refereeCommands">
+        <item>Start</item>
+        <item>Stop</item>
+        <item>Halt</item>
+        <item>Ready</item>
+        <item>BeginFirstHalf</item>
+        <item>BeginHalfTime</item>
+        <item>BeginSecondHalf</item>
+        <item>BeginOvertimeHalf1</item>
+        <item>BeginOvertimeHalf2</item>
+        <item>BeginPenaltyShootout</item>
+        <item>KickOffTigers</item>
+        <item>KickOffEnemies</item>
+        <item>PenaltyTigers</item>
+        <item>PenaltyEnemies</item>
+        <item>DirectFreeKickTigers</item>
+        <item>DirectFreeKickEnemies</item>
+        <item>IndirectFreeKickTigers</item>
+        <item>IndirectFreeKickEnemies</item>
+        <item>TimeoutTigers</item>
+        <item>TimeoutEnemies</item>
+        <item>TimeoutEnd</item>
+        <item>GoalScoredTigers</item>
+        <item>GoalScoredEnemies</item>
+        <item>DecreaseGoalScoreTigers</item>
+        <item>DecreaseGoalScoreEnemies</item>
+        <item>YellowCardTigers</item>
+        <item>YellowCardEnemies</item>
+        <item>RedCardTigers</item>
+        <item>RedCardEnemies</item>
+        <item>Cancel</item>
+        <item>TimeUpdate</item>
+        <item>UnknownCommand</item>
+    </array>
+
+</resources>

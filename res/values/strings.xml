@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="app_name">SSL Referee</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">SSL Referee</string>
+    
+    <string name="Start">Start</string>
+    <string name="Stop">Stop</string>
+    <string name="Halt">Halt</string>
+    <string name="Ready">Ready</string>
+    <string name="BeginFirstHalf">BeginFirstHalf</string>
+    <string name="BeginHalfTime">BeginHalfTime</string>
+    <string name="BeginSecondHalf">BeginSecondHalf</string>
+    <string name="BeginOvertimeHalf1">BeginOvertimeHalf1</string>
+    <string name="BeginOvertimeHalf2">BeginOvertimeHalf2</string>
+    <string name="BeginPenaltyShootout">BeginPenaltyShootout</string>
+    <string name="KickOffTigers">KickOffTigers</string>
+    <string name="KickOffEnemies">KickOffEnemies</string>
+    <string name="PenaltyTigers">PenaltyTigers</string>
+    <string name="PenaltyEnemies">PenaltyEnemies</string>
+    <string name="DirectFreeKickTigers">DirectFreeKickTigers</string>
+    <string name="DirectFreeKickEnemies">DirectFreeKickEnemies</string>
+    <string name="IndirectFreeKickTigers">IndirectFreeKickTigers</string>
+    <string name="IndirectFreeKickEnemies">IndirectFreeKickEnemies</string>
+    <string name="TimeoutTigers">TimeoutTigers</string>
+    <string name="TimeoutEnemies">TimeoutEnemies</string>
+    <string name="TimeoutEnd">TimeoutEnd</string>
+    <string name="GoalScoredTigers">GoalScoredTigers</string>
+    <string name="GoalScoredEnemies">GoalScoredEnemies</string>
+    <string name="DecreaseGoalScoreTigers">DecreaseGoalScoreTigers</string>
+    <string name="DecreaseGoalScoreEnemies">DecreaseGoalScoreEnemies</string>
+    <string name="YellowCardTigers">YellowCardTigers</string>
+    <string name="YellowCardEnemies">YellowCardEnemies</string>
+    <string name="RedCardTigers">RedCardTigers</string>
+    <string name="RedCardEnemies">RedCardEnemies</string>
+    <string name="Cancel">Cancel</string>
+    <string name="TimeUpdate">TimeUpdate</string>
+    <string name="UnknownCommand">UnknownCommand</string>
+
+</resources>
